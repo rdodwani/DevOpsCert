@@ -1,0 +1,1 @@
+test command in the demo hello text file
