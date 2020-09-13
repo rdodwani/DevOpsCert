@@ -1,1 +1,3 @@
-test command in the demo hello text file
+test command in the demo hello text files
+welcome to the world of Git Hub
+This is my third line
